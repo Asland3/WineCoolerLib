@@ -1,0 +1,17 @@
+h1{
+    color: black;
+    text-shadow: 3px 3px #140f0fa3;
+}
+h2{
+    color:aqua;
+    text-shadow: #140f0f 2px 2px;
+}
+
+body{
+    background: linear-gradient(133deg, rgb(26, 167, 182), rgba(16, 74, 80, 0.942), rgb(22, 97, 105) ); 
+    margin-left: 10px;
+}
+
+button, table{
+    box-shadow: #1d5256 1px 2px 2px;
+}
